@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+import * as THREE from "/assets/node_modules/three/build/three.module";
 
 const scene = new THREE.Scene();
 const camera = new THREE.OrthographicCamera();
